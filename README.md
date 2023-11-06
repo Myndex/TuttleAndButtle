@@ -68,7 +68,7 @@ Actually, WCAG 2 does have a single breakpoint for normal and one for bold fonts
 
  Logical fallacies: FALSE,, false equivocation, same as above 
 
-Single breakpoint, where APCA is smooth nreakd
+Single breakpoint, where APCA is smooth
 
 > - _These are all good arguments to change to a new way of measuring contrast, especially as APCA also promises to give designers more color choice. However:_
 
@@ -118,12 +118,12 @@ Logical fallacies: post hoc ergo propter hoc, appeal to ignorance, reciting fact
 
 > _WCAG 3 and the consensus process will probably mean that it takes another 3–5 years until WCAG 3 sees any release. And then WCAG 2 will be still enshrined into a lot of laws and policies. After all, WCAG 3 is a huge monolith of a specification, and the structure that the Working Group wants to use is very complex. You can read about it in the WCAG 3 explainer._
 
-False Dichotomy, Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
+Logical fallacies: False Dichotomy, Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
 
 
 > _In the meantime, WCAG 2 is there for you. Is it perfect? No. Is the luminosity contrast flawed? Pretty sure. But that should encourage us to take the time to make sure that we don’t make similar choices in WCAG 3. As I have outlined previously on this very blog, I don’t think WCAG 3 is necessary the silver bullet that we think it is._
 
-False Dichotomy , Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
+Logical fallacies: False Dichotomy , Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
 
 
 
@@ -133,13 +133,13 @@ False Dichotomy , Equivocation, Hasty Generalization, post hoc ergo propter hoc,
 
 There is a discussion area at 
 
- False Dichotomy    Hasty Generalization
+ Logical fallacies: False Dichotomy    Hasty Generalization
 
 
 
 > _I’m very worried that some designers might think they should or can use the new contrast algorithm, and then accessibility consultants have to push back and clear up those misunderstandings. It takes up a lot of time, while accessibility consultants have their hands full already._
 
- Equivocation (Doublespeak), Appeal to Authority   False Dichotomy (False Dilemma)   Straw Man Argument Red herring
+ Logical fallacies: Equivocation (Doublespeak), Appeal to Authority   False Dichotomy (False Dilemma)   Straw Man Argument Red herring
 
 
 
@@ -160,8 +160,7 @@ Logical fallacies: post hoc ergo propter hoc, appeal to ignorance
 
 > _That said, it is so easy to think in these inconsequential hypotheticals. The W3C consensus is that WCAG 2.2 is published some time next year. WCAG 3 follows when it’s done. It’s a long process, and we need to make sure all our i’s are dotted and the t’s are crossed. Let’s just make sure we don’t get ahead of ourselves and create confusion._
 
-Bandwagon logical fallacy
-Slippery slope logical fallacy
+Logical fallacies: Bandwagon logical fallacy   Slippery slope logical fallacy
 
 
 
@@ -176,7 +175,7 @@ Slippery slope logical fallacy
 
 > _WCAG 3 is still not ready. In fact, there haven’t been any meaningful updates to the draft since this article was initially published. The proposed charter for the WCAG WG has a completion date of Q2/2026, which is probably unrealistic. (Minor WCAG 2 updates took between 5 and 10 years, but now they want to create an entirely new standard with new testing requirements and documentation in three years?)_
 
- Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
+ Logical fallacies: Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
 
 
 
