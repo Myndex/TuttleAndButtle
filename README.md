@@ -3,12 +3,13 @@ Canonical rebuttles to sponsored rumors._
 
 ## Rebuttle to "WCAG 3 is not ready yet"
 
+------------
 ### WCAG 3 is not ready yet
-No one said it was, but parts are ready for testing.
+No one said it was, but parts are ready for testing, and undergoing tests
 
 > _And it won’t be for quite some time._
 
-Logical fallacy: reciting facts not in evidence, appeal to ignorance, and uninformed rhetoric.
+Logical fallacy: reciting **facts not in evidence**, false premise, appeal to ignorance, and uninformed rhetoric.
 
 
 > _In the last couple of weeks, more and more people point at the WCAG 3.0 Working Draft and recommend the adoption of aspects from it that suit their needs, despite the draft clearly stating (emphasis theirs):_
@@ -17,7 +18,7 @@ The "aspects of it" is the contrast method, APCA. People are using it because th
 
 > _These are early drafts of guidelines included to serve as initial examples. They are used to illustrate what WCAG 3.0 could look like and to test the process of writing content. These guideline drafts should not be considered as final content of WCAG 3.0. They are included to show how the structure would work._
 
-Logical fallacies: begging the question, false dilemma
+Logical fallacies: begging the question, false dilemma, Equivocation (Doublespeak), post hoc ergo propter hoc
 
 They are included as guidelines to test and evaluate the process of creating the guideline, process of using, testing the guideline function as part of the public beta test, etc.
 
@@ -29,7 +30,7 @@ Logical fallacies: begging the question, false dilemma, appeal to ignorance, rec
 >> _[…]_
 >> _A Working Draft is suitable for gathering wide review prior to advancing to the next stage of maturity._
 
-Which refues the statements Mr Eggert made previously. The working draft is explicity for testing and wide review.
+Which refutes the statements Mr Eggert made previously. The working draft is explicity for testing and wide review.
 
 > ### _What’s the issue with being an early adopter?_
 
