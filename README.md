@@ -1,11 +1,11 @@
 # TuttleAndButtle
-Canonical rebuttles to sponsored rumors._
+Canonical rebuttals to sponsored rumors._
 
-## Rebuttle to "WCAG 3 is not ready yet"
+## Rebuttal to "WCAG 3 is not ready yet"
 
 December of 2021, Eric Eggert (Yatil) continued his obstructive commentary regarding new contrast methods proposed in WCAG 3. This opinion piece has been re-used and re-posted over the last few years by others of the obstruction group.
 
-The piece itself is of little value, but it has come to our attention that it is being used as a reference, to obstruct the progress of actual accessibility. As such, it needs to be challeneged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
+The piece itself is of little value, but it has come to our attention that it is being used as a reference, to obstruct the progress of actual accessibility. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
 
 ------------
 > ### _WCAG 3 is not ready yet_
@@ -36,7 +36,7 @@ In 2021, as well now, WCAG 2 is not "mandated law" in most of the world, though 
 
 Logical fallacies: begging the question, false dilemma, appeal to ignorance, reciting facts not in evidence.
 
-No one ever claimed they were a "recommendation", however when it comes to contrast, WCAG 2.x contrast SCs are so poorly conceived and unuseable, that many were eager to try out the new and functional APCA method.
+No one ever claimed they were a "recommendation", however when it comes to contrast, WCAG 2.x contrast SCs are so poorly conceived and unusable, that many were eager to try out the new and functional APCA method.
 
 And in fact, by December of 2021, the APCA method then (and now) in testing was not the version first shown in the January 2021 WCAG 3 working draft, and had already advanced substantially beyond that. 
 
@@ -44,7 +44,7 @@ And in fact, by December of 2021, the APCA method then (and now) in testing was 
 >> _[…]_
 >> _A Working Draft is suitable for gathering wide review prior to advancing to the next stage of maturity._
 
-Which refutes the statements Mr Eggert made previously. The working draft is ***explicity for testing and wide review***. So which is it Mr. Eggert? That there is no provision for testing as you stated elsewhere? Or that there _is_ testing?
+Which refutes the statements Mr Eggert made previously. The working draft is ***explicitly for testing and wide review***. So which is it Mr. Eggert? That there is no provision for testing as you stated elsewhere? Or that there _is_ testing?
 
 > ### _What’s the issue with being an early adopter?_
 
