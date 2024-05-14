@@ -1,50 +1,52 @@
 # TuttleAndButtle
-Canonical rebuttals to sponsored rumors._
+_Canonical rebuttals to sponsored rumors._
 
 ## Rebuttal to "WCAG 3 is not ready yet"
 
-December of 2021, Eric Eggert (Yatil) continued his obstructive commentary regarding new contrast methods proposed in WCAG 3. This opinion piece has been re-used and re-posted over the last few years by others of the obstruction group.
+Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. This opinion piece has been re-used and re-posted over the last few years by others of the small group of obstructionists.
 
-The piece itself is of little value, but it has come to our attention that it is being used as a reference, to obstruct the progress of actual accessibility. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
+The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
 
 ------------
 > ### _WCAG 3 is not ready yet_
 
-No one said it was, but parts are certainly ready for testing, and undergoing tests. APCA was brought to the public view and published as an npm package December 2021 to enable the larger public beta period for testing and evaluation. Mr. Eggert's opinion piece, along with actions by other obstructionists, had a chilling effect, including causing beta testers to drop out of the beta test program.
+No one said it was, but parts are/were certainly ready for testing, and actively undergoing tests. APCA was brought to the public view and published as an npm package December 2021 to enable the larger public beta period for testing and evaluation. Mr. Eggert's opinion piece, along with actions by other obstructionists, had a chilling effect, including the disruption of the beta program, and causing some beta testers and early adopters to drop out of the beta test program.
 
 > _And it won’t be for quite some time._
 
-Logical fallacy: reciting **facts not in evidence**, false premise, appeal to ignorance, and uninformed rhetoric.
+**Logical fallacy:** reciting **facts not in evidence**, false premise, appeal to ignorance, and uninformed rhetoric.
 
-At the time this was stated, WCAG 3 was expected to evolve within a few years. However, as a result of the obstructionists, WCAG 3 was brought down and restarted nearly from scratch, and as a result, now does not have any clear release date.
+At the time this was stated, WCAG&nbsp;3 was expected to evolve within a few years. However, as a result of the obstructionists, WCAG&nbsp;3 was brought down and restarted nearly from scratch, and as a result, now does not have any clear release date.
 
-Because of the important of visual accessibility, the APCA and APC-Readability Criterion is now on a fast-track development with the non-profit Inclusive Reading Technologies, Inc. 
+Because of the importance of visual accessibility, the APCA and APC-Readability Criterion is now on a fast-track development with the non-profit [Inclusive Reading Technologies, Inc.](https://readtech.org/ARC/) 
 
 > _In the last couple of weeks, more and more people point at the WCAG 3.0 Working Draft and recommend the adoption of aspects from it that suit their needs, despite the draft clearly stating (emphasis theirs):_
 
-The "aspects of it" is the contrast method, APCA. People are using it because the existing WCAG&nbsp;2 simply does not work. Those that had been adopting it in 2021 were part of the wide public beta program.
+The "aspects of it" is the contrast method, APCA. People are using it because the existing WCAG&nbsp;2 simply does not work. Those that had been adopting it in 2021 were part of the wide public beta program, devised to ensure that future contrast methods did not fail, the way WCAG&nbsp;2 contrast has.
 
 > _These are early drafts of guidelines included to serve as initial examples. They are used to illustrate what WCAG 3.0 could look like and to test the process of writing content. These guideline drafts should not be considered as final content of WCAG 3.0. They are included to show how the structure would work._
 
-Logical fallacies: begging the question, false dilemma, equivocation (Doublespeak), post hoc ergo propter hoc, straw man.
+**Logical fallacies:** begging the question (circular argument), false dilemma, equivocation (doublespeak), post hoc ergo propter hoc (after this, therefore because of this, i.e. false correlation), straw man argument (unrelated/irrelevant argument).
 
-They are included as guidelines to test and evaluate the process of creating the guideline, process of using, testing the guideline function as part of the public beta test, etc.
+They are included as guidelines to test and evaluate the process of creating the guideline, process of using, and of testing the guideline function as part of the public beta test, etc.
 
-In 2021, as well now, WCAG 2 is not "mandated law" in most of the world, though unfortunately it has been added to some rules in some specific cases, despite the known failings and potential for harm.
+In 2021, as well as now, WCAG&nbsp;2 is not "mandated law" in most of the world, though unfortunately it has been added to some rules in some specific cases, despite the known failings and potential for harm. More on this a bit later.
 
 > _W3C Working Groups publish drafts to allow the public and W3C members to give feedback. They are explicitly not meant as a recommendation or even as advice. To quote from the W3C process document (emphasis mine):_
 
-Logical fallacies: begging the question, false dilemma, appeal to ignorance, reciting facts not in evidence.
+**Logical fallacies:** begging the question, false dilemma, appeal to ignorance, reciting facts not in evidence.
 
-No one ever claimed they were a "recommendation", however when it comes to contrast, WCAG 2.x contrast SCs are so poorly conceived and unusable, that many were eager to try out the new and functional APCA method.
+How is the public to give feedback, if they don't actually try and use something? What benefit would that provide? None. All guidelines need testing and evaluation. APCA was and is undergoing evaluation, in real world circumstances, using real websites and tools developed by and for designers. 
 
-And in fact, by December of 2021, the APCA method then (and now) in testing was not the version first shown in the January 2021 WCAG 3 working draft, and had already advanced substantially beyond that. 
+No one ever claimed WCAG&nbsp;3 was a "recommendation", however when it comes to contrast, WCAG 2.x contrast SCs are so poorly conceived and unusable, that many were eager to try out the new and functional APCA method.
+
+And in fact, by December of 2021, the APCA method then (and now) in testing was not the version first shown in the January 2021 WCAG 3 working draft, and had already advanced substantially beyond that. The stable beta version was released February 15th 2021.
 
 >> _Working Drafts do not necessarily represent a consensus of the Working Group with respect to their content, and do not imply any endorsement by W3C or its members beyond agreement to work on a general area of technology._
 >> _[…]_
 >> _A Working Draft is suitable for gathering wide review prior to advancing to the next stage of maturity._
 
-Which refutes the statements Mr Eggert made previously. The working draft is ***explicitly for testing and wide review***. So which is it Mr. Eggert? That there is no provision for testing as you stated elsewhere? Or that there _is_ testing?
+Which refutes the statements Mr Eggert made previously elsewhere (he has claimed that "there is no provision for testing" and other nonsense). The working draft is ***explicitly for testing and wide review***. So which is it Mr. Eggert? That there is no provision for testing as you stated elsewhere? Or that there _is_ testing?
 
 > ### _What’s the issue with being an early adopter?_
 
@@ -65,9 +67,10 @@ Nevertheless, we also released Bridge PCA which is a simplified version that is 
 
 Logical fallacies: reciting facts not in evidence, fallacy of equivocation, false analogy, arguments from analogy, straw man.
 
-This is a bizarre couple of paragraphs, and confusing to say the least. And further, forward/reverse conformance had (at that point) not been a key consideration. The consideration at the time was to start with a clean slate with WCAG&nbsp;3, in order to allow a departure from the areas where WCAG&nbsp;2.x makes unsupportable demands.
+These paragraphs are confusing to say the least. And further, forward/reverse conformance had (at that point) not been a key consideration. The consideration at the time was to start with a clean slate with WCAG&nbsp;3, in order to allow a departure from the areas where WCAG&nbsp;2.x makes unsupportable demands.
 
-***Backwards Compatibility in WCAG&nbsp;2.x Terms***
+## *Backwards Compatibility in WCAG&nbsp;2.x Terms*
+Let's discuss this, as the "backwards compatibility" issue is the core of Mr. Eggert's demurrer.
 
 Just to clarify, the backwards compatibility being referenced here, as stipulated under WCAG&nbsp;2.0, means that if something "fails" under WCAG&nbsp;2.0, that it therefore "must" fail under _all future versions_. But, any future version of WCAG&nbsp;2.x may **add features** that might ***not*** fail under a previous version.
 
@@ -195,7 +198,7 @@ What questions? And what does Mr. Eggert think was the reason we had an extended
 > _For private, non-commercial projects: Sure, go ahead and apply it to the best of your knowledge. There are no restrictions on what you can do, and it might even inform future developments in WCAG._
 > _For commercial and public projects: You are probably, through law or policy, required to conform to WCAG 2. That means you cannot rely on APCA for compliance (simply because it does not exist in WCAG 2)._
 
-Logical fallacies: appeal to fear, post hoc ergo propter hoc, appeal to ignorance, reciting facts not in evidence, false equivocation.
+**Logical fallacies:** appeal to fear, post hoc ergo propter hoc, appeal to ignorance, reciting facts not in evidence, false equivocation.
 
 Among the canards asserted by Mr. Eggert and others of the obstructionist camp, are those relating to law. WCAG&nbsp;2 is a voluntary guideline and not law. In 2021 when written, WCAG&nbsp;2 was not law in an absolute sense, there were some rare examples where legislatures copied from the WCAG&nbsp;2 SCs. Even today, many cite the EU's EN&nbsp;301, but this does not come into force until 2025, and then not even full force until 2030.
 
@@ -204,7 +207,7 @@ In the USA, the US Access Board's 508 rules adopted the SCs from WCAG&nbsp;2.0 (
 
 > _WCAG 3 and the consensus process will probably mean that it takes another 3–5 years until WCAG 3 sees any release. And then WCAG 2 will be still enshrined into a lot of laws and policies. After all, WCAG 3 is a huge monolith of a specification, and the structure that the Working Group wants to use is very complex. You can read about it in the WCAG 3 explainer._
 
-Logical fallacies: False Dichotomy, Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
+**Logical fallacies:** False Dichotomy, Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence
 
 This comment was part of the force that was used to halt development of WCAG&nbsp;3 and start again from scratch. Today, WCAG&nbsp;3 is an unknown distance in the future.
 
@@ -212,7 +215,7 @@ As a result of the problems that have arisen with WCAG&nbsp;3, the APCA is now b
 
 > _In the meantime, WCAG 2 is there for you. Is it perfect? No. Is the luminosity contrast flawed? Pretty sure. But that should encourage us to take the time to make sure that we don’t make similar choices in WCAG 3. As I have outlined previously on this very blog, I don’t think WCAG 3 is necessary the silver bullet that we think it is._
 
-Logical fallacies: False Dichotomy , Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence.
+**Logical fallacies:** False Dichotomy , Equivocation, Hasty Generalization, post hoc ergo propter hoc, reciting facts not in evidence.
 
 We brought the problems of WCAG&nbsp;2 to the forefront in April of 2019 in GitHub WCAG issue thread #695. And we have been open about our research and development since that time. There is a discussion forum dedicated to contrast, color, and readability at the main APCA repository.
 
@@ -222,7 +225,7 @@ We brought the problems of WCAG&nbsp;2 to the forefront in April of 2019 in GitH
 >
 > _I think exploring APCA and how it works with your particular color needs is a good first step, and the Accessibility Guidelines Working Group probably welcomes that feedback. If you use it, be aware that you might not conform to WCAG 2, and you cannot conform to WCAG 3 (as that does not exist yet)._
 
-Logical fallacies: False Dichotomy, Hasty Generalization.
+**Logical fallacies:** False Dichotomy, Hasty Generalization.
 
 We are not presently concerned with WCAG&nbsp;3, but we are concerned with those that have been bullied into using WCAG&nbsp;2, despite the well known problems. This kind of gaslighting should not be accepted. The general tone has permeated this subject, with the take of "WCAG&nbsp;2 is bad but it's the only thing you can use" which is bizarre and not at all in touch with reality.
 
@@ -235,7 +238,7 @@ We are not presently concerned with WCAG&nbsp;3, but we are concerned with those
 
 > _Additionally, it gives accessibility a bad reputation: “You can’t even agree on what colors we should use. Accessibility makes everything more complicated!”. This already is a common sentiment, and speculating what the future might be, based on an early working draft, will not help with it._
 
-**Logical fallacies:** Straw Man Argument, Begging the Question (circular argument), Post Hoc "post hoc ergo propter hoc", Red herring.
+**Logical fallacies:** straw man argument, begging the question (circular argument), post hoc "post hoc ergo propter hoc", red herring.
 
 The fact that WCAG&nbsp;2 promoted a contrast metric that was not peer-reviewed, not tested, and was even objected to back in 2007, is the source of any "bad reputation". The fact that we in the Visual Contrast group spent years developing a stable and useable guideline is not contributing to that bad reputation. Mr. Eggert's claim here is purely for the purpose if disparagement.
 
@@ -245,14 +248,14 @@ The fact that WCAG&nbsp;2 promoted a contrast metric that was not peer-reviewed,
 
 > _In an alternate universe, we would have a modular WCAG (similar to what CSS is doing) where every two years or so we package up new success criteria into a new version. It would have allowed different speeds for different SCs, and in this case, we might have a better understanding on what the way forward would be. And if our rating or evaluation guideline would change, the next version of that Success Criterion could address it._
 
-Logical fallacies: post hoc ergo propter hoc, appeal to ignorance.
+**Logical fallacies:** post hoc ergo propter hoc, appeal to ignorance.
 
 And yet, when that was proposed for WCAG&nbsp;3, it was shot down.
 
 
 > _That said, it is so easy to think in these inconsequential hypotheticals. The W3C consensus is that WCAG 2.2 is published some time next year. WCAG 3 follows when it’s done. It’s a long process, and we need to make sure all our i’s are dotted and the t’s are crossed. Let’s just make sure we don’t get ahead of ourselves and create confusion._
 
-Logical fallacies: bandwagon logical fallacy, slippery slope logical fallacy.
+**Logical fallacies:** bandwagon logical fallacy, slippery slope logical fallacy.
 
 How about focusing instead on creating sites that are actually accessible? How about that for a change? This "WCAG apologist" stance is untenable, if not actually harmful.
 
