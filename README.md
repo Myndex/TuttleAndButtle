@@ -63,7 +63,7 @@ Which refutes the statements Mr Eggert made previously, elsewhere he has claimed
 
 In other words, this comment is not at all relevant. APCA exceeds the meager requirements of WCAG&nbsp;2, and no "fall back" is specifically needed.
 
-Nevertheless, we also released Bridge PCA which is a simplified version that is a drop in replacement for the unreliable WCAG&nbsp;2 math. Moreover, WebAim's studies show that 86% of websites fail to used WCAG&nbsp;2 contrast (in large part as it does not work), so here Mr. Eggert seems to want to fall back to a spec that is known to be a fail.
+Nevertheless, we also released [Bridge PCA](https://bridgepca.com) which is a simplified version that is a drop in replacement for the unreliable WCAG&nbsp;2 math. Moreover, WebAim's studies show that [86% of websites fail to use WCAG&nbsp;2 contrast](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) (in large part as it does not work), so here Mr. Eggert seems to want to fall back to a spec that is known to be a fail.
 
 > _<sub>Yatil:</sub>_    
 > _With guidelines like WCAG 2.1 and 2.2 (to be released later), the same approach is true. If you use WCAG 2.2 Success Criteria now, the Guidelines are built to be backwards compatible. So you will never break a 2.0 or 2.1 audit by using it._
@@ -87,7 +87,7 @@ Thus, the backwards compatibility here as mandated in WCAG&nbsp;2.x is the ultim
 
 Such a premise is absurd on the face of it. Moreover, even the AGWG has disregarded the backwards mandate by removing an SC from WCAG&nbsp;2.2
 
-In the case of contrast under WCAG&nbsp;2, it can actually make things worse for people with color vision deficiencies. Further, WCAG&nbsp;2 contrast has no peer-review nor empirical studies, and has been widely criticized. In other words, it is wrong, and it is wrong for it to be in any standard.
+In the case of contrast under WCAG&nbsp;2, it can actually [**make things worse for people with color vision deficiencies**](https://tangledweb.xyz/whats-red-black-also-not-read-573b9c0a97ed). Further, WCAG&nbsp;2 contrast has no peer-review nor empirical studies, and has been widely criticized. In other words, it is wrong, and it is wrong for it to be in any standard.
 
 The claim that it "can't be changed" due to backwards compatibility issues is an untenable, unpersuasive argument.
 
@@ -101,9 +101,9 @@ The claim that it "can't be changed" due to backwards compatibility issues is an
 
 Yes, APCA is a bit of a paradigm shift, as is needed to replace the flawed and much maligned WCAG2 contrast methods and guideines. And how "stark" the departure depends on the level of improved accessibility one desires. And this has little to do with APCA the algorithm, and more to do with the more flexible guidelines that a perceptually uniform algorithm permits.
 
-For instance, the "Bronze Simple Mode", created in response to statements like this, is a basic and simple guidelines with basic threshold levels—but using correct math and methods. 
+For instance, the ["Bronze Simple Mode"](https://readtech.org/ARC/tests/bronze-simple-mode/?tn=criterion), created in response to statements like this, is a basic and simple guidelines with basic threshold levels—but using correct math and methods. 
 
-But "Stark Departure" is hyperbole. Both the basic APCA and the WCAG2 test a pair of colors, and provide a value. The difference is that the value provided by WCAG2 is not meaningful, and not at all consistent over the visual range, and this requires brute forcing of threshold levels. APCA is consistent, i.e. perceptually uniform, and that allows for a more complete and useable set of guidelines.
+But "Stark Departure" is hyperbole. Both the basic APCA and the WCAG2 test a pair of colors, and provide a value. The difference is that the value provided by WCAG2 is not meaningful, and [not at all consistent](https://tangledweb.xyz/hi-lucas-673167805f55) over the visual range, and this requires brute forcing of threshold levels. APCA is consistent, i.e. perceptually uniform, and that allows for a more complete and useable set of guidelines.
 
 
 
@@ -116,7 +116,7 @@ But "Stark Departure" is hyperbole. Both the basic APCA and the WCAG2 test a pai
 
 **Logical fallacies:** _FALSE_, false equivocation, misdirection, and omission of facts surrounding WCAG&nbsp;2 to claim it is simpler. 
 
-WCAG 2 _does_ have font-size and weight breakpoints for normal and bold fonts. Arguably, this is wholly inadequate. But it is also disingenuous to imply that WCAG&nbsp;2 is better or easier to use because it is claimed to be "simpler", and omitting the fact that WCAG&nbsp;2 has rudimentary font requirements is the basis for Mr. Eggert's argument that APCA is "more complicated". If one has to lie to make a point, then they have no point to make. In this case, it is an easily verifiable lie, as all one has to do is read the WCAG 2.x 1.4.3 SC.
+WCAG 2 _does_ have font-size and weight breakpoints for normal and bold fonts. [Arguably, this is wholly inadequate](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8). But it is also disingenuous to imply that WCAG&nbsp;2 is better or easier to use because it is claimed to be "simpler", and omitting the fact that WCAG&nbsp;2 has rudimentary font requirements is the basis for Mr. Eggert's argument that APCA is "more complicated". If one has to lie to make a point, then they have no point to make. In this case, it is an easily verifiable lie, as all one has to do is read the WCAG 2.x 1.4.3 SC.
 
 But more to the point, saying "WCAG&nbsp;2 is simpler" falls flat—designers and content developers certainly don't think so, nor do those with color vision issues who are not well served by WCAG&nbsp;2.
 
@@ -128,7 +128,7 @@ There is nothing about the APCA algorithm that prevents this simpleton approach.
 
 APCA and the APC-RC are a product of years of research and investigation, using well established peer-reviewed science, and with years now of open public testing.
 
-WCAG&nbsp;2 referred to none of that, instead cherry-picking from an obsolete 1988 standard for monochrome CRTs. So we find it curious that Mr. Eggert and friends are demanding that people adhere to the old, and deeply flawed SCs such as 1.4.3, which does not support actual accessibility, and in fact can be harmful to readability.
+WCAG&nbsp;2 referred to none of that, instead cherry-picking from an [obsolete 1988 standard for monochrome CRTs.](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a) So we find it curious that Mr. Eggert and friends are demanding that people adhere to the old, and deeply flawed SCs such as 1.4.3, which does not support actual accessibility, and in fact can be harmful to readability.
 
 > _<sub>Yatil:</sub>_    
 > - _These are all good arguments to change to a new way of measuring contrast, especially as APCA also promises to give designers more color choice. However:_
@@ -141,7 +141,7 @@ As stated, and as listed in the WCAG&nbsp;2 document, font size and weight also 
 
 APCA, being based on human perception, provides designers with useful and actionable guidelines for font size and weight. And designers have been very supportive of the sliding scale that permits greater design flexibility using the APC-RC.
 
-In response to Mr. Eggert's negative views, we developed the _"Bronze Simple Mode"_ guideline, which uses the APCA algorithm, but breaks the guidelines down into a few simple breakpoints. We also developed the BridgePCA, which is a literal drop-in replacement for the flawed WCAG&nbsp;2 contrast math, and is backwards compatible therein.
+In response to Mr. Eggert's negative views, we developed the [_"Bronze Simple Mode"_](https://readtech.org/ARC/tests/bronze-simple-mode/?tn=criterion) guideline, which uses the APCA algorithm, but breaks the guidelines down into a few simple breakpoints. We also developed the BridgePCA, which is a literal drop-in replacement for the flawed WCAG&nbsp;2 contrast math, and is backwards compatible therein.
 
 ***AS A SIDE NOTE:*** To be clear, there is nothing at all about the APCA *algorithm* that prevents "backwards compatibility" to the old WCAG&nbsp;2. APCA itself is just an algorithm that predicts contrast perception. It is a matter of the development nd writing of the _guidelines_ that answers the question of backwards compatibility.
 
@@ -173,7 +173,7 @@ But then Mr. Eggert claims that WCAG&nbsp;3 had "looser ratings", after earlier 
 
 This leads into his assertion that _"...be a bit inaccessible and still conform to WCAG..."_ which is patently false. It is a provocative statement that Mr. Eggert has been repeating, but is very simply a lie. 
 
-WCAG&nbsp;2 contrast is weak, and does not support, much less mandate, actual accessibility. 47% of the color pairs that WCAG&nbsp;2 passes should fail under a properly developed system. A designer could follow WCAG&nbsp;2 and make a site pass by the numbers, yet be actually and factually inaccessible.
+[WCAG&nbsp;2 contrast is weak](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8), and does not support, much less mandate, actual accessibility. 47% of the color pairs that WCAG&nbsp;2 passes should fail under a properly developed system. A designer could follow WCAG&nbsp;2 and make a site pass by the numbers, yet be actually and factually inaccessible.
 
 APC-RC provides for fewer color pairs than WCAG&nbsp;2, but all the color pairs under APC-RC are useable, and this is not tha case with WCAG&nbsp;2. Further, 22% of the color pairs WCAG&nbsp;2 rejects are perfectly useable with the correct font weight, and provide for a better experience for color insensitive users.
 
@@ -198,7 +198,7 @@ The APCA algorithm was last modified February 15th, 2021. This is the version th
 
 What does this paragraph even mean? How does APCA "trade off clarity" while being "more exact". This is another baseless logical fallacy intended to confuse not illuminate.
 
-Designers can use some values of orange and white because this supports ***actual accessibility***, especially for those with color vision deficiency. WCAG&nbsp;2 does not support actual accessibility, and some of these color pairs it rejects does so ***at the expense of accessible design***.
+Designers can use some values of orange and white because this supports ***actual accessibility***, especially for those with color vision deficiency. WCAG&nbsp;2 does not support actual accessibility, and some of these color pairs it rejects does so [***at the expense of accessible design***](https://tangledweb.xyz/this-is-a-great-article-on-the-use-of-visual-contrasts-in-design-2063abbd66d9).
 
 > _<sub>Yatil:</sub>_    
 > _That trade-off might be totally worth it, but there are many questions that need to be answered between now and then._
@@ -218,7 +218,7 @@ What questions? And what does Mr. Eggert think was the reason we have an extende
 
 **Logical fallacies:** _appeal to fear, post hoc ergo propter hoc, appeal to ignorance, reciting facts not in evidence, false equivocation._
 
-Among the canards asserted by Mr. Eggert and others of the obstructionist camp, are those relating to law. WCAG&nbsp;2 is a voluntary guideline and not law. In 2021 when written, WCAG&nbsp;2 was not law in an absolute sense, there were some rare examples where legislatures copied from the WCAG&nbsp;2 SCs. Even today, many cite the EU's EN&nbsp;301, but this does not come into actual force until 2025, and then, not even full force until 2030.
+Among the canards asserted by Mr. Eggert and others of the obstructionist camp, are those relating to law. [WCAG&nbsp;2 is a voluntary guideline and not law](https://tangledweb.xyz/hi-simon-nice-article-thank-you-for-the-kind-words-2cf04fa5ef03). In 2021 when written, WCAG&nbsp;2 was not law in an absolute sense, there were some rare examples where legislatures copied from the WCAG&nbsp;2 SCs. Even today, many cite the EU's EN&nbsp;301, but this does not come into actual force until 2025, and then, not even full force until 2030.
 
 In the USA, the US Access Board's 508 rules adopted the SCs from WCAG&nbsp;2.0 (but not later versions), but the 508 rules include clear exceptions, importantly, the "equivalent facilitation" rule, which clearly permits the use of improved guidelines such as the APC-RC.
 
