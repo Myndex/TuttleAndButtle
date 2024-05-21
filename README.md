@@ -3,7 +3,7 @@ _Canonical rebuttals to sponsored rumors._
 
 ## Rebuttal to Yatil's "WCAG 3 is not ready yet"
 
-Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. This opinion piece has been re-used and re-posted over the last few years by others of a small pack of individuals that have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
+Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. This opinion piece has been re-used and re-posted over the last few years by others of a small group of individuals that have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
 
 The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
 
@@ -99,31 +99,36 @@ The claim that it "can't be changed" due to backwards compatibility issues is an
 
 **Logical fallacies:** _hyperbole ("stark departure"), use of unsupported negative phraseology._
 
+Yes, APCA is a bit of a paradigm shift, as is needed to replace the flawed and much maligned WCAG2 contrast methods and guideines. And how "stark" the departure depends on the level of improved accessibility one desires. And this has little to do with APCA the algorithm, and more to do with the more flexible guidelines that a perceptually uniform algorithm permits.
+
+For instance, the "Bronze Simple Mode", created in response to statements like this, is a basic and simple guidelines with basic threshold levels—but using correct math and methods. 
+
+But "Stark Departure" is hyperbole. Both the basic APCA and the WCAG2 test a pair of colors, and provide a value. The difference is that the value provided by WCAG2 is not meaningful, and not at all consistent over the visual range, and this requires brute forcing of threshold levels. APCA is consistent, i.e. perceptually uniform, and that allows for a more complete and useable set of guidelines.
+
+
+
 > _<sub>Yatil:</sub>_    
 > - _WCAG 2 treats front and background color the same, so inverting the color does not change the calculation. This is notably not how color perception works in practice. You can perceive certain colors better or worse, depending on the surrounding color._
-
-Correct that WCAG&nbsp;2 does not recognize context or polarity, but there is the ***fallacy of omission***, by not pointing out that APCA _does_ recognize context and polarity of contrast.
-
-> _<sub>Yatil:</sub>_    
+>
 > - _WCAG 2 does not take font-size and weight into account, the APCA does_.
 >
 > - _WCAG 2 did not change the required contrast depending on the font, APCA does._
 
-**Logical fallacies:** _FALSE_, false equivocation, misdirection, and omission of facts surrounding WCAG&nbsp;2 to make it appear simpler. 
+**Logical fallacies:** _FALSE_, false equivocation, misdirection, and omission of facts surrounding WCAG&nbsp;2 to claim it is simpler. 
 
 WCAG 2 _does_ have font-size and weight breakpoints for normal and bold fonts. Arguably, this is wholly inadequate. But it is also disingenuous to imply that WCAG&nbsp;2 is better or easier to use because it is claimed to be "simpler", and omitting the fact that WCAG&nbsp;2 has rudimentary font requirements is the basis for Mr. Eggert's argument that APCA is "more complicated". If one has to lie to make a point, then they have no point to make. In this case, it is an easily verifiable lie, as all one has to do is read the WCAG 2.x 1.4.3 SC.
 
-But mor eto the point, saying "WCAG&nbsp;2 is simpler" falls flat—designers and content developers certainly don't think so, nor do those with color vision issues who are not well served by WCAG&nbsp;2.
+But more to the point, saying "WCAG&nbsp;2 is simpler" falls flat—designers and content developers certainly don't think so, nor do those with color vision issues who are not well served by WCAG&nbsp;2.
 
 The WCAG&nbsp;2 breakpoints have no support in peer reviewed empirical studies, and no effort is made to recognize that "font-size" does not relate to the actual text size as rendered on screen. Further the contrast levels of 4.5:1 and 3:1 can be either completely inadequate, or paradoxically, more than is needed. Thus, being _"simple"_ is useless if it also means being wrong. WCAG&nbsp;2 barely considers spatial aspects, but moreover, the asserted "simplicity" is not a virtue, it is a part of how WCAG&nbsp;2 contrast SCs fail as guidelines.
 
-There is nothing about the APCA algorithm that prevents this simpleton approach. In fact, BridgePCA is a simple drop in repacement for WCAG&nbsp;2's faulty math and methods. But with the full APC-RC guideline comes both improved accessibility, and improved flexibility, as the APC-RC is designed with good design in mind from the get-go.
+There is nothing about the APCA algorithm that prevents this simpleton approach. In fact, BridgePCA is a simple drop-in repacement for WCAG&nbsp;2's faulty math and methods. But with the full APC-RC guideline comes both improved accessibility, and improved flexibility. The APC-RC is designed with good design in mind from the get-go.
 
 **Facts:** contrast perception of most text (as well as lines thinner than about 4px) is primarily driven by these _spatial_ characteristics. The font weight, size, or line thickness is the primary driver, as that is directly related to human contrast sensitivity. This is a matter of well developed, peer-reviewed scientific consensus, going back half a century at least (See Stevens et alia). APCA considers these well established aspects of visual perception, and the APC-RC guidelines are all referencing the well established scientific consensus in readability (Legge, Whittacker, Lovie-Kitchin, et alia).
 
 APCA and the APC-RC are a product of years of research and investigation, using well established peer-reviewed science, and with years now of open public testing.
 
-WCAG&nbsp;2 had none of that—so we find it curious that Mr. Eggert and friends are demanding that people adhere to the old, and deeply flawed SCs such as 1.4.3, which does not support actual accessibility and in fact can be harmful to readability.
+WCAG&nbsp;2 referred to none of that, instead cherry-picking from an obsolete 1988 standard for monochrome CRTs. So we find it curious that Mr. Eggert and friends are demanding that people adhere to the old, and deeply flawed SCs such as 1.4.3, which does not support actual accessibility, and in fact can be harmful to readability.
 
 > _<sub>Yatil:</sub>_    
 > - _These are all good arguments to change to a new way of measuring contrast, especially as APCA also promises to give designers more color choice. However:_
@@ -140,7 +145,7 @@ In response to Mr. Eggert's negative views, we developed the _"Bronze Simple Mod
 
 ***AS A SIDE NOTE:*** To be clear, there is nothing at all about the APCA *algorithm* that prevents "backwards compatibility" to the old WCAG&nbsp;2. APCA itself is just an algorithm that predicts contrast perception. It is a matter of the development nd writing of the _guidelines_ that answers the question of backwards compatibility.
 
-Also, the area where APC-RC is not backwards compatible with WCAG&nbsp;2 is the area where WCAG&nbsp;2 is harmful to readability for color insensitive folks. This is the one area where Mr. Eggert and friends are frequently claiming that _"you have to follow WCAG&nbsp;2 because, laws..."_ which is not supportable, when the failings and bad law that WCAG&nbsp;2 creates has never been proven in a court of law as valid—and in fact the one case where that was claimed was thrown out.
+The area where APC-RC guidelines are intentionally not backwards compatible with WCAG&nbsp;2, is the area where WCAG&nbsp;2 is harmful to readability for color insensitive folks. This is the one area where Mr. Eggert and friends are frequently claiming that _"you have to follow WCAG&nbsp;2 because, laws..."_ which is not supportable, when the failings and bad law that WCAG&nbsp;2 creates have not been proven in a court of law as valid.
 
 ### We consider it inappropriate to support backwards compatibility to guidelines that are harmful.
 
@@ -168,7 +173,7 @@ But then Mr. Eggert claims that WCAG&nbsp;3 had "looser ratings", after earlier 
 
 This leads into his assertion that _"...be a bit inaccessible and still conform to WCAG..."_ which is patently false. It is a provocative statement that Mr. Eggert has been repeating, but is very simply a lie. 
 
-WCAG&nbsp;2 contrast is weak, and does not support, much less mandate, actual accessibility. 47% of the color pairs that WCAG&nbsp;2 passes should fail under a properly developed system. A designer could follow WCAG&nbsp;2 and make a site to passes by the numbers, yet is actually and factually inaccessible.
+WCAG&nbsp;2 contrast is weak, and does not support, much less mandate, actual accessibility. 47% of the color pairs that WCAG&nbsp;2 passes should fail under a properly developed system. A designer could follow WCAG&nbsp;2 and make a site pass by the numbers, yet be actually and factually inaccessible.
 
 APC-RC provides for fewer color pairs than WCAG&nbsp;2, but all the color pairs under APC-RC are useable, and this is not tha case with WCAG&nbsp;2. Further, 22% of the color pairs WCAG&nbsp;2 rejects are perfectly useable with the correct font weight, and provide for a better experience for color insensitive users.
 
@@ -177,7 +182,7 @@ APC-RC provides for fewer color pairs than WCAG&nbsp;2, but all the color pairs 
 
 **Logical fallacies:** _appeal to ignorance, reciting facts not in evidence, Circular Argument, false equivocation, Red Herring, Straw Man_.
 
-Mr. Eggert is directly relating to a very early draft guideline, yet at the time he wrote this opinion piece, the more complete guidelines had been in public beta for nearly a year. Mr. Eggert refused any attempt to discuss the actual facts and guidelines, instead writing opinion pieces such as this that fully disregard the actual published guidelines that were being tested.
+Mr. Eggert is directly relating to a very early draft guideline, yet at the time he wrote this opinion piece, the more complete guidelines had been in public beta for nearly a year. We made good-faith efforts to show Mr. Eggert the works in progress, yet Mr. Eggert refused any attempt to discuss the actual facts and guidelines, instead writing opinion pieces such as this that fully disregard the actual published guidelines that were being tested.
 
 > _<sub>Yatil:</sub>_    
 > _The APCA algorithm is changed occasionally (last in March 2021). It’s good that it adapts to new research, but it also means that you might use a color that is not sufficient by a later version._
@@ -193,14 +198,14 @@ The APCA algorithm was last modified February 15th, 2021. This is the version th
 
 What does this paragraph even mean? How does APCA "trade off clarity" while being "more exact". This is another baseless logical fallacy intended to confuse not illuminate.
 
-Designers can use some values of orange and white because this supports ***actual accessibility***, especially for those with color vision deficiency. WCAG&nbsp;2 does not support actual accessibility, and some of these color pairs it rejects does so at the expense of accessible design.
+Designers can use some values of orange and white because this supports ***actual accessibility***, especially for those with color vision deficiency. WCAG&nbsp;2 does not support actual accessibility, and some of these color pairs it rejects does so ***at the expense of accessible design***.
 
 > _<sub>Yatil:</sub>_    
 > _That trade-off might be totally worth it, but there are many questions that need to be answered between now and then._
 
 **Logical fallacies:** _false dilemma, appeal to ignorance, reciting facts not in evidence._
 
-What questions? And what does Mr. Eggert think was the reason we had an extended public beta period? 
+What questions? And what does Mr. Eggert think was the reason we have an extended public beta period? 
 
 **Here's the trade-off:** WCAG&nbsp;2 does not work, is harmful to readability, and designers do not use it. APC-RC works and provides substantial improvement to readability, using guidelines that have been tested and that provide useful guidance to designers, in the pursuit of actual accessibility.
 
@@ -213,7 +218,7 @@ What questions? And what does Mr. Eggert think was the reason we had an extended
 
 **Logical fallacies:** _appeal to fear, post hoc ergo propter hoc, appeal to ignorance, reciting facts not in evidence, false equivocation._
 
-Among the canards asserted by Mr. Eggert and others of the obstructionist camp, are those relating to law. WCAG&nbsp;2 is a voluntary guideline and not law. In 2021 when written, WCAG&nbsp;2 was not law in an absolute sense, there were some rare examples where legislatures copied from the WCAG&nbsp;2 SCs. Even today, many cite the EU's EN&nbsp;301, but this does not come into force until 2025, and then not even full force until 2030.
+Among the canards asserted by Mr. Eggert and others of the obstructionist camp, are those relating to law. WCAG&nbsp;2 is a voluntary guideline and not law. In 2021 when written, WCAG&nbsp;2 was not law in an absolute sense, there were some rare examples where legislatures copied from the WCAG&nbsp;2 SCs. Even today, many cite the EU's EN&nbsp;301, but this does not come into actual force until 2025, and then, not even full force until 2030.
 
 In the USA, the US Access Board's 508 rules adopted the SCs from WCAG&nbsp;2.0 (but not later versions), but the 508 rules include clear exceptions, importantly, the "equivalent facilitation" rule, which clearly permits the use of improved guidelines such as the APC-RC.
 
@@ -294,7 +299,7 @@ The pull request was essentially what is the [APC-Readability Criterion](https:/
 
 
 ## SIDEBAR: Organizational Politics
-There is a small pack of individuals obstructing the work toward actual accessibility as it pertains to readability. Mr. Eggert has visible ties that associate him with this crew. Their underlying motivations are unclear, but there is definitely an element of toxic personalities surrounding this topic. 
+There is a small group of people obstructing the work toward actual accessibility as it pertains to readability. Mr. Eggert has visible ties that associate him with this group. Their underlying motivations are unclear, but there is definitely an element of toxic personalities surrounding this topic. 
 
 The internal politics of the W3C's AGWG are an untenable and ongoing problem. In response, we founded the non-profit Inclusive Reading Technologies, Inc. The [APC-Readability Criterion](https://readtech.org/ARC/) is in public working draft, and provides solid and useful guidance for designers to ensure visual accessibility and improved readability for all users.
 
@@ -303,9 +308,9 @@ The internal politics of the W3C's AGWG are an untenable and ongoing problem. In
 ### Don't be led astray, WCAG&nbsp;2.x SCs 1.4.3 & 1.4.11 are not fit for purpose.
 WCAG 2's contrast math/methods do not support actual accessibility, and in fact can result in conditions that are worse for those with color vision deficiencies. The understanding docs of WCAG 2.x contain false or misleading information, and the premise lacks scientific support. 1.4.3 and 1.4.11 should not be incorporated into any laws nor regulations.
 
+Moreover, a critical view of the actions here and elsewhere, clearly reveal a motivation to obstruct, with a darker purpose. This can not be allowed to stand. Fixing the significant problems of web content readability is one we take seriously, as is evidenced by our continued development of free-to-use guidelines and technologies.
+
 Thank you for reading.
-
-
 
 ## Resources
 
@@ -315,7 +320,4 @@ For more background on APCA and Readability, you may find these links helpful:
 - [Myndex Linktree](https://linktr.ee/Myndex) a short curated list of key resources, tools, and documentation.
 - [The APCA Discussion Forum](https://github.com/Myndex/SAPC-APCA/discussions) the discussion forum on GitHub, free to join in the conversation.
 
-There is another rebuttle to this pack, in ["apca-introduction"](https://github.com/Myndex/apca-introduction).
 
-
-_Footnote: "Tuttle And Buttle" refers to Terry Gilliam's film "Brazil", and the glitch that mixed up two individuals with unfortunate consequences._
