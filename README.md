@@ -1,17 +1,23 @@
 # TuttleAndButtle
 _Canonical rebuttals to sponsored rumors._
 
-## Rebuttal to Yatil's "WCAG 3 is not ready yet"
+## Rebuttal to Yatil's _"WCAG 3 is not ready yet"_
 
 Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. This opinion piece has been re-used and re-posted over the last few years by others of a small group of individuals that have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
 
-The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
+The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research by creating an atmosphere of confusion and animosity. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
+
+We've hesitated giving any consideration to the postings of what amount to "trolls", as usually the best course of action is to ignore—and certainly, we are not promoting this page. In general, our focus is on improving actual accessibility. We know the truth will prevail, and this has been the case for the most part. But we have been made aware of implications and actual harm that is being caused within the accessibility community by these ludicrus assertions. Therefore we need at least to have a document to point to as a response.
+
+This document is intended to provide clarity, for those that find Mr. Eggert's unsupported opinion confusing on these issues.
+
 
 ------------
 > _<sub>Yatil:</sub>_    
 > ### _WCAG 3 is not ready yet_
 
 No one said it was, but parts are/were certainly ready for testing, and actively undergoing tests. APCA was brought to the public view and published as an npm package December 2021 to enable the larger public beta period for testing and evaluation. Mr. Eggert's opinion piece, along with actions by other obstructionists, had a chilling effect, including the disruption of the beta program, and causing some beta testers and early adopters to drop out of the beta test program.
+
 
 > _<sub>Yatil:</sub>_    
 > _And it won’t be for quite some time._
@@ -22,10 +28,12 @@ At the time this was stated, WCAG&nbsp;3 was expected to evolve within a few yea
 
 Because of the importance of visual accessibility, the APCA and APC-Readability Criterion is now on a fast-track development with the non-profit [Inclusive Reading Technologies, Inc.](https://readtech.org/ARC/) 
 
+
 > _<sub>Yatil:</sub>_    
 > _In the last couple of weeks, more and more people point at the WCAG 3.0 Working Draft and recommend the adoption of aspects from it that suit their needs, despite the draft clearly stating (emphasis theirs):_
 
 The "aspects of it" is the contrast method, APCA. People are using it because the existing WCAG&nbsp;2 simply does not work. Those that had been adopting it in 2021 were part of the wide public beta program, devised to ensure that future contrast methods did not fail, the way WCAG&nbsp;2 contrast has.
+
 
 > _<sub>Yatil:</sub>_    
 > _These are early drafts of guidelines included to serve as initial examples. They are used to illustrate what WCAG 3.0 could look like and to test the process of writing content. These guideline drafts should not be considered as final content of WCAG 3.0. They are included to show how the structure would work._
@@ -35,6 +43,7 @@ The "aspects of it" is the contrast method, APCA. People are using it because th
 They are included as guidelines to test and evaluate the process of creating the guideline, process of using, and of testing the guideline function as part of the public beta test, etc.
 
 In 2021, as well as now, WCAG&nbsp;2 is not "mandated law" in most of the world, though unfortunately it has been added to some rules in some specific cases, despite the known failings and potential for harm. More on this a bit later.
+
 
 > _<sub>Yatil:</sub>_    
 > _W3C Working Groups publish drafts to allow the public and W3C members to give feedback. They are explicitly not meant as a recommendation or even as advice. To quote from the W3C process document (emphasis mine):_
@@ -46,6 +55,7 @@ How is the public to give feedback, if they don't actually try and use something
 No one ever claimed WCAG&nbsp;3 was a "recommendation", however when it comes to contrast, WCAG 2.x contrast SCs are so poorly conceived and unusable, that many were eager to try out the new and functional APCA method.
 
 And in fact, by December of 2021, the APCA method then (and now) in testing was not the version first shown in the January 2021 WCAG 3 working draft, and had already advanced substantially beyond that. The stable beta version was released February 15th 2021 (version 0.98G-4g). Taking a conservative approach, nearly a year later the 0.98G-4g beta was made available as an npm package, to help assure consistency across early adopters and beta testers.
+
 
 >> _<sub>W3C Process as quoted by Yatil:</sub>_    
 >> _Working Drafts do not necessarily represent a consensus of the Working Group with respect to their content, and do not imply any endorsement by W3C or its members beyond agreement to work on a general area of technology._
