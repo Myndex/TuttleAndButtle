@@ -3,7 +3,7 @@ _Canonical rebuttals to sponsored rumors._
 
 ## Rebuttal to Yatil's _"WCAG 3 is not ready yet"_
 
-Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. This opinion piece has been re-used and re-posted over the last few years by others of a small group of individuals that have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
+Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. His opinion piece has been re-used and re-posted over the last few years by others of a small group of individuals that have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
 
 The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research by creating an atmosphere of confusion and animosity. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
 
