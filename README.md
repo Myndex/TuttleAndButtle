@@ -32,7 +32,7 @@ Because of the importance of visual accessibility, the APCA and APC-Readability 
 > _<sub>Yatil:</sub>_    
 > _In the last couple of weeks, more and more people point at the WCAG 3.0 Working Draft and recommend the adoption of aspects from it that suit their needs, despite the draft clearly stating (emphasis theirs):_
 
-The "aspects of it" is the contrast method, APCA. People are using it because the existing WCAG&nbsp;2 simply does not work. Those that had been adopting it in 2021 were part of the wide public beta program, devised to ensure that future contrast methods did not fail, the way WCAG&nbsp;2 contrast has.
+The "aspects of it" is the contrast method, APCA. People are using it because the [existing WCAG&nbsp;2 simply does not work](https://github.com/Myndex/SAPC-APCA/discussions/30). Those that had been adopting it in 2021 were part of the wide public beta program, devised to ensure that future contrast methods did not fail, the way WCAG&nbsp;2 contrast has.
 
 
 > _<sub>Yatil:</sub>_    
@@ -175,7 +175,7 @@ And there is a well defined procedure for qualifying alternate fonts, and is a t
 But more importantly, the line claiming _"...excluding people with visual disabilities..."_ is as provocative as it is dishonest, with no basis in fact.
 
 > _<sub>Yatil:</sub>_    
-> _How the APCA values convert to WCAG 3 ratings is not 100% clear to me.
+> _How the APCA values convert to WCAG 3 ratings is not 100% clear to me._
 
 And yet Mr. Eggert has refused multiple good faith attempts to discuss the basis of the ratings, and merits of providing different levels of conformance. If it is not clear to him, he is being obtuse, and actively resiting the work, including the updated documentation. We have offered these obstructionists zoom call discussions to answer questions and show the research and basis for the work—that they have ignored these good faith attempts speaks volumes.
 
