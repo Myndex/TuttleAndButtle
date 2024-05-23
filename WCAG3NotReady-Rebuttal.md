@@ -8,8 +8,8 @@ We've hesitated giving any consideration to the postings of what amount to "trol
 
 This document is intended to provide clarity, for those that find Mr. Eggert's unsupported opinion confusing on these issues.
 
+----
 ## The In-Depth Discussion
-------------
 > _<sub>Yatil:</sub>_    
 > ### _WCAG 3 is not ready yet_
 
