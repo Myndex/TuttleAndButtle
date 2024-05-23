@@ -1,4 +1,4 @@
-## Rebuttal to Yatil's _"WCAG 3 is not ready yet"_
+# Rebuttal to Yatil's _"WCAG 3 is not ready yet"_
 
 Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. His opinion piece has been re-used and re-posted over the last few years by others of a small group of individuals that have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
 
@@ -8,7 +8,7 @@ We've hesitated giving any consideration to the postings of what amount to "trol
 
 This document is intended to provide clarity, for those that find Mr. Eggert's unsupported opinion confusing on these issues.
 
-
+## The In-Depth Discussion
 ------------
 > _<sub>Yatil:</sub>_    
 > ### _WCAG 3 is not ready yet_
@@ -29,7 +29,7 @@ Because of the importance of visual accessibility, the APCA and APC-Readability 
 > _<sub>Yatil:</sub>_    
 > _In the last couple of weeks, more and more people point at the WCAG 3.0 Working Draft and recommend the adoption of aspects from it that suit their needs, despite the draft clearly stating (emphasis theirs):_
 
-The "aspects of it" is the contrast method, APCA. People are using it because the existing WCAG&nbsp;2 simply does not work. Those that had been adopting it in 2021 were part of the wide public beta program, devised to ensure that future contrast methods did not fail, the way WCAG&nbsp;2 contrast has.
+The "aspects of it" is the contrast method, APCA. People are using it because the [existing WCAG&nbsp;2 simply does not work](https://github.com/Myndex/SAPC-APCA/discussions/30). Those that had been adopting it in 2021 were part of the wide public beta program, devised to ensure that future contrast methods did not fail, the way WCAG&nbsp;2 contrast has.
 
 
 > _<sub>Yatil:</sub>_    
@@ -172,7 +172,7 @@ And there is a well defined procedure for qualifying alternate fonts, and is a t
 But more importantly, the line claiming _"...excluding people with visual disabilities..."_ is as provocative as it is dishonest, with no basis in fact.
 
 > _<sub>Yatil:</sub>_    
-> _How the APCA values convert to WCAG 3 ratings is not 100% clear to me.
+> _How the APCA values convert to WCAG 3 ratings is not 100% clear to me._
 
 And yet Mr. Eggert has refused multiple good faith attempts to discuss the basis of the ratings, and merits of providing different levels of conformance. If it is not clear to him, he is being obtuse, and actively resiting the work, including the updated documentation. We have offered these obstructionists zoom call discussions to answer questions and show the research and basis for the work—that they have ignored these good faith attempts speaks volumes.
 
@@ -332,3 +332,5 @@ For more background on APCA and Readability, you may find these links helpful:
 - [Easy Intro to APCA](https://git.apcacontrast.com/documentation/APCAeasyIntro.html) a brief, easy to read intro to user needs for readability of digital content.
 - [Myndex Linktree](https://linktr.ee/Myndex) a short curated list of key resources, tools, and documentation.
 - [The APCA Discussion Forum](https://github.com/Myndex/SAPC-APCA/discussions) the discussion forum on GitHub, free to join in the conversation.
+
+
