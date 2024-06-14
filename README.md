@@ -7,11 +7,11 @@ Early December of 2021, [Eric Eggert (Yatil)'s opinion piece][1] has been re-use
 
 The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research by creating an atmosphere of confusion and animosity. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, which we [dissect on a line by line basis.l][1]
 
-## Derailed analysis of APCA 
+## Corrections and Rebuttals of xi's repo
 User xi (Tobias Bengfort) created an unauthorized repo called "apca-introduction" which is, unfortunately, misleading. We forked the repo to clarify, make corrections, and set the record straight. 
 
 ### Corrections to xi's [Dissing Introduction to APCA][2]
-The corrected ["The missing introduction to APCA"][2] linked here, was revised for accuracy only, with the intention of maintaining xi's original tone and simplicity. THe corrections were necessarry, as the original is significantly biased. For instance, the visual examples are set with low spatial frequency fonts that are well into contrast constancy, so as to hide the true and important differences. In addition, the original applied unauthorized modifications to the code, invalidating any results.
+The corrected ["The missing introduction to APCA"][2] linked here, was revised for accuracy only, with the intention of maintaining xi's original tone and simplistic presentation. The corrections were necessarry, as the original is significantly and inappropriately biased. For instance, the visual examples are set with low spatial frequency fonts with contrast values well into contrast constancy, so as to hide the true and important differences. In addition, the original repo applied unauthorized modifications to the code, invalidating any results.
 
 ### Rebuttal to xi's [Derailed APCA Analysis][3]
 We find user xi's ["Detailed analysis of APCA"][3] flawed and misleading for a number of reasons. He misappropriates the math and eliminates key properties of the APCA method. As a result his "analysis" is invalid. 
@@ -21,11 +21,13 @@ We find user xi's ["Detailed analysis of APCA"][3] flawed and misleading for a n
 
 - Why spend energy to discuss? Because xi has indicated apparent ties to the obstructionist group.
     - If in fact xi is following their lead, then everything he states on the subject is motivated not by science but as part of a more significant effort toward preventing the improvement of accessibility.
-        - This would explain the apparent cognitive dissonance with the faux analysis and corruptions of math and methods, which appears intended to confuse and not illustrate.
+        - This would explain the apparent cognitive dissonance with the faux analysis and corruptions of math and methods, which appears intended to confuse and not to illuminate.
+
+     
 -----
 
 ## SIDEBAR: Organizational Politics
-We have been made aware of a small group of individuals obstructing the work toward actual accessibility as it pertains to visual readability. Their underlying motivations may seem unclear, though recent insights have implied motivations that are far from altruistic. The visible-yet-vacuous toxic personalities opposing the subject matter are posturing to feed off a narcissistic supply, at the expense of the community. And the cognitive dissonance they have caused through their manipulation, has created a divisive bitterness in the a11y community.
+We have been made aware of a small group of individuals obstructing the work toward actual accessibility as it pertains to visual readability. Their underlying motivations may seem unclear, though recent insights have implied motivations that are far from altruistic. The visible-yet-vacuous toxic personalities opposing the subject matter, are posturing to feed off a narcissistic supply at the expense of the community. And the cognitive dissonance they have caused through their manipulation, has created a divisive bitterness in the a11y community.
 
 Some of this has impacted the internal politics of the W3C's AGWG, inflaming an untenable and ongoing problem. Our proactive response, to maintain momentum and continue the work and development, has been founding the non-profit Inclusive Reading Technologies, Inc. The [APC-Readability Criterion](https://readtech.org/ARC/) is a public working draft, and provides solid and useful guidance for designers to ensure visual accessibility and improved readability for all users. APC-RC guidelines are derived from the decades of peer-reviewed readability research, as detailed in the several bibliographies contained within.
 
