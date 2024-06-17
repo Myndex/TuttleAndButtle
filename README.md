@@ -1,6 +1,7 @@
 # TuttleAndButtle
-_Canonical rebuttals to sponsored rumors._
+_This repo is a catch-all for posting rebuttals to some of the misplaced, dishonest, or just bizarre rumors or statements regarding the research in visual contrast and readability._
 
+ 
 ## Rebuttal to Yatil's [_"WCAG 3 is not ready yet"_][1]
 
 First posted early December of 2021 as a contrarian response to the several very positive reviews of emerging guidelines for contrast and color, [Eric Eggert (Yatil)'s opinion piece][1] has since been re-used or re-posted by others of a small group of individuals who have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
@@ -26,7 +27,7 @@ We find user xi's ["Detailed analysis of APCA"][3] flawed and misleading for a n
      
 -----
 
-## Resources
+## Authoritative Resources
 
 For more background on APCA and Readability, you may find these links helpful:
 
@@ -42,6 +43,8 @@ We have been made aware of a small group of individuals obstructing the work tow
 Some of this has impacted the internal politics of the W3C's AGWG, inflaming an untenable and ongoing problem. Our proactive response, to maintain momentum and continue the work and development, has been founding the non-profit Inclusive Reading Technologies, Inc. The [APC-Readability Criterion](https://readtech.org/ARC/) is a public working draft, and provides solid and useful guidance for designers to ensure visual accessibility and improved readability for all users. APC-RC guidelines are derived from the decades of peer-reviewed readability research, as detailed in the several bibliographies contained within.
 
 **Legislatures should be aware that portions of WCAG&nbsp;2 are not fit for use in law or regulation**; if it were a voluntary guideline, the potential for harm would not be such a concern, but when elevated to statute law, the potential for harm is unacceptable. The unfortunate part here is that the serious problems of WCAG&nbsp;2's contrast SCs cast a dark shadow on some important aspects of WCAG&nbsp;2.
+
+Moreover, the nature of the problems with 1.4.3 and 1.4.11, if elevated to law, result in the blocking of improved and more accessible visual content guidelines.
 
 ### Don't be led astray, WCAG&nbsp;2.x SCs 1.4.3 & 1.4.11 are not fit for purpose.
 These two SCs affect the vast majority of visual web content, yet neither is supported by science, nor peer review, nor testing. WCAG 2's contrast math/methods do not support actual accessibility, and in fact can result in conditions that are worse for those with color vision deficiencies. The understanding docs of WCAG 2.x contain false or misleading information, and the premise lacks scientific support. 1.4.3 and 1.4.11 should not be incorporated into any laws nor regulations. This could be said of a few other SCs, but these two in particular have resulted in the greatest misunderstandings, and the greatest harm to users and readability.
