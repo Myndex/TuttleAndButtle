@@ -26,6 +26,16 @@ We find user xi's ["Detailed analysis of APCA"][3] flawed and misleading for a n
      
 -----
 
+## Resources
+
+For more background on APCA and Readability, you may find these links helpful:
+
+- [Easy Intro to APCA](https://git.apcacontrast.com/documentation/APCAeasyIntro.html) a brief, easy to read intro to user needs for readability of digital content.
+- [Myndex Linktree](https://linktr.ee/Myndex) a short curated list of key resources, tools, and documentation.
+- [The APCA Discussion Forum](https://github.com/Myndex/SAPC-APCA/discussions) the discussion forum on GitHub, free to join in the conversation.
+- [APC-Readability Criteria](https://readtech.org/ARC/) Public Working Draft of the next generation guidelines for visual accessibility and readability.
+
+----
 ## SIDEBAR: Organizational Politics
 We have been made aware of a small group of individuals obstructing the work toward actual accessibility as it pertains to visual readability. Their underlying motivations may seem unclear, though recent insights have implied motivations that are far from altruistic. The visible-yet-vacuous toxic personalities opposing the subject matter, are posturing to feed off a narcissistic supply at the expense of the community. And the cognitive dissonance they have caused through their manipulation, has created a divisive bitterness in the a11y community.
 
@@ -44,16 +54,7 @@ Consider this when you ask why certain individuals are opposed to improving visu
 
 Thank you for reading.
 
-## Resources
-
-For more background on APCA and Readability, you may find these links helpful:
-
-- [Easy Intro to APCA](https://git.apcacontrast.com/documentation/APCAeasyIntro.html) a brief, easy to read intro to user needs for readability of digital content.
-- [Myndex Linktree](https://linktr.ee/Myndex) a short curated list of key resources, tools, and documentation.
-- [The APCA Discussion Forum](https://github.com/Myndex/SAPC-APCA/discussions) the discussion forum on GitHub, free to join in the conversation.
-- [APC-Readability Criteria](https://readtech.org/ARC/) Public Working Draft of the next generation guidelines for visual accessibility and readability.
-
-
+----
 ### About the Title of This Repo
 Yes, I know rebuttal is not spelled like _"buttle"_.
 
