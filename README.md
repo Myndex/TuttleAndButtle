@@ -1,5 +1,9 @@
 # TuttleAndButtle
-_This repo is a catch-all for posting rebuttals to the very few but nevertheless misplaced, dishonest, or just bizarre rumors or statements regarding the research in visual contrast and readability._
+_This repo is a catch-all for posting rebuttals to the very few but nevertheless misplaced, dishonest, or just bizarre rumors or falsehoods regarding current research in visual contrast and readability._
+
+We are working toward improving visual readability of digital content—but like any large paradigm shift, there are some that actively obstruct progress and development. 
+
+We have an [**open public forum for discussion, comments, and questions**](https://github.com/Myndex/SAPC-APCA/discussions), And we work to address them all in a timely manner. The rebuttals we present in this repo however, are directed toward misleading or false claims causing confusion.
 
  
 ## Rebuttal to Yatil's [_"WCAG 3 is not ready yet"_][1]
@@ -9,19 +13,19 @@ First posted early December of 2021 as a contrarian response to the several very
 The piece itself is of little value, but it has come to our attention that it is being used as a reference, being cited with the aim of creating an atmosphere of confusion and animosity. As such, it needs to be challenged. It does not contain facts, but rather a string of provocative logical fallacies, which we [dissect on a line by line basis.][1]
 
 ## Corrections and Rebuttals of a Misleading GitHub Repo
-GitHub user xi (Tobias Bengfort) created an unauthorized repo called "apca-introduction" which is, unfortunately, misleading. We forked the repo to clarify, make corrections, and set the record straight. Here are summaries with links to the clarifications.
+GitHub user xi (Tobias Bengfort) created an unauthorized repo called "apca-introduction" which is, unfortunately, misleading. We forked the repo to clarify, make corrections, and set the record straight. Here are summaries with links to the clarifications (links lead to a separate repo).
 
 ### Corrections to the [_Dissing Introduction to APCA_][2]
 The corrected ["The missing introduction to APCA"][2] linked here, was revised for accuracy only, with the intention of maintaining xi's original tone and simplistic presentation. The corrections were necessarry, as the original is significantly and inappropriately biased. For instance, the visual examples are set with low spatial frequency fonts with contrast values well into contrast constancy, so as to hide the true and important differences. In addition, the original repo applied unauthorized modifications to the APCA code, invalidating any results.
 
-### Rebuttal to xi's [_Derailed APCA Analysis_][3]
+### Rebuttal to [_Derailed APCA Analysis_][3]
 We find user xi's ["Detailed analysis of APCA"][3] flawed and misleading for a number of reasons. He misappropriates the math and eliminates key properties of the APCA method. As a result his "analysis" is invalid. 
 
 ### Math, Lies, and Videotape
 [In his blog, xi attempts to examine contrast maths][4]. xi states he has a math degree, and while he admits to being a lay person in the field of vision and color, he asserts inappropriate math to "prove" his unsupported theories or claims. But that's not how math and vision science work together, and his assertions are neither supportable nor salient. 
 
 ### Why Bother?
-Why spend energy to discuss this (and risk the "Streisand Effect")? Because xi has indicated apparent ties to the obstructionist group, and xi's biased and spurious claims are being used to directly obstruct material improvements in visual accessibility. If in fact xi is associated with the obstructionists as it appears, then his statements on the subject are not motivated by science. This would explain the apparent cognitive dissonance presented in the faux analysis and related corruptions of math and methods. All of which appear to be intended to confuse the issues, and not to illuminate.
+Why spend energy to discuss this (and risk the "Streisand Effect")? Because xi has indicated apparent ties to the obstructionist group, and xi's biased and spurious claims are being used to directly obstruct material improvements in visual accessibility. If in fact xi is associated with the obstructionists as it appears, then his statements on the subject are not motivated by science. This would explain the observable cognitive dissonance presented in the faux analysis and related corruptions of math and methods—all of which appear to be intended to confuse and not to illuminate.
 
      
 -----
@@ -32,7 +36,7 @@ For more background on APCA and Readability, you may find these links helpful:
 
 - [Easy Intro to APCA](https://git.apcacontrast.com/documentation/APCAeasyIntro.html) a brief, easy to read intro to user needs for readability of digital content.
 - [Myndex Linktree](https://linktr.ee/Myndex) a short curated list of key resources, tools, and documentation.
-- [The APCA Discussion Forum](https://github.com/Myndex/SAPC-APCA/discussions) the discussion forum on GitHub, free to join in the conversation.
+- [The APCA Discussion Forum](https://github.com/Myndex/SAPC-APCA/discussions) the discussion forum on GitHub, feel free to join in the conversation.
 - [APC-Readability Criteria](https://readtech.org/ARC/) Public Working Draft of the next generation guidelines for visual accessibility and readability.
 
 ----
