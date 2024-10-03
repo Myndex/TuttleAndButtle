@@ -70,3 +70,9 @@ Sid and his bean-counting buddies did not understand Brazil, and unfortunately f
 [2]: https://github.com/Myndex/apca-introduction?tab=readme-ov-file#corrected-fork-of-apca-introduction-with-comments
 [3]: https://github.com/Myndex/apca-introduction/blob/main/analysis.md
 [4]: https://github.com/Myndex/apca-introduction/blob/main/Math_Lies_and_Video.md
+
+
+-----
+Contents of this repository are copyright © 2023/2024. All Rights Reserved.      
+<sub>_Because this repo involves controvery, please do not fork._</sub>       
+<sup>_Please add questions or comments in the discussions area._</sup>   
