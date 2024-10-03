@@ -343,7 +343,7 @@ For more background on APCA and Readability, you may find these links helpful:
 
 ## Internal Politics & Standards
 
-See: [SIDEBAR: Organizational Politics](https://github.com/Myndex/TuttleAndButtle/blob/main/sidebarOrgPolitics.md#sidebar-organizational-politics)
+See: [SIDEBAR: Organizational Politics](sidebarOrgPolitics.md)
 
 **Legislatures should be aware that WCAG&nbsp;2 is not fit for use in law or regulation**; if it were a voluntary guideline, the potential for harm would not be such a concern, but when elevated to statute law, the potential for harm is unacceptable. The unfortunate part here is that the serious problems of WCAG&nbsp;2's contrast SCs cast a dark shadow on the rest of WCAG&nbsp;2. Moreover, the nature of the problems with 1.4.3 and 1.4.11, if elevated to law, result in the blocking of improved and more accessible visual content guidelines.
 
