@@ -5,7 +5,7 @@ Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary re
 
 The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research by creating an atmosphere of confusion and animosity. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
 
-We've hesitated giving any consideration to the postings of what amount to "trolls", as usually the best course of action is to ignore—and certainly, we are not promoting this page. In general, our focus is on improving actual accessibility. We know the truth will prevail, and this has been the case for the most part. But we have been made aware of implications and actual harm that is being caused within the accessibility community by these ludicrous assertions. Therefore we need at least to have a document to point to as a response.
+We've hesitated giving any consideration to the postings of what amount to "trolls", as usually the best course of action is to ignore—and certainly, we are not promoting this page. In general, our focus is on improving actual accessibility. We know the truth will prevail, and this has been the case for the most part. But we have been made aware of implications and actual harm that is being caused within the accessibility community by these derisive assertions. Therefore we need at least to have a document to point to as a response.
 
 This document is intended to provide clarity, for those that find Mr. Eggert's unsupported opinion confusing on these issues.
 
@@ -122,7 +122,9 @@ But "Stark Departure" is hyperbole. Both the basic APCA and the WCAG2 test a pai
 >
 > - _WCAG 2 did not change the required contrast depending on the font, APCA does._
 
-**Logical fallacies:** _FALSE_, false equivocation, misdirection, and omission of facts surrounding WCAG&nbsp;2 to claim it is simpler. 
+**Logical fallacies:** **_FALSE_**, _false equivocation, misdirection, and omission of facts surrounding WCAG&nbsp;2 to claim it is simpler. _
+
+### If one has to lie to make a point, then they have _no point to make_.
 
 WCAG 2 _does_ have font-size and weight breakpoints for normal and bold fonts. [Arguably, this is wholly inadequate](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8). But it is also disingenuous to imply that WCAG&nbsp;2 is better or easier to use because it is claimed to be "simpler", and omitting the fact that WCAG&nbsp;2 has rudimentary font requirements is the basis for Mr. Eggert's argument that APCA is "more complicated". If one has to lie to make a point, then they have no point to make. In this case, it is an easily verifiable lie, as all one has to do is read the WCAG 2.x 1.4.3 SC.
 
