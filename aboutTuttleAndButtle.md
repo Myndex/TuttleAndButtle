@@ -18,3 +18,6 @@ Sid and his bean-counting buddies did not understand Brazil, and unfortunately f
 [**Gilliam declared war**](https://www.syfy.com/syfy-wire/the-story-of-the-three-cuts-of-terry-gilliams-brazil), and a battle ensued over which version American audiences would be allowed to see. Eventually, it was Gilliam's 132 minute version. But if you haven't seen it, I do recommend the full European cut, available from the Criterion Collection.
 
 This repo, **_"Tuttle and Buttle"_** is directly a nod toward Gilliam's film and his resolute stance in protecting his work. In the more general sense, the name of the repo implies the nature of such battles, standing up for what is right, and dismissing the posturing charlatans who follow arbitrary numbers or badly formed rules, due to a lack of critical thinking skills.
+
+![A frame from Terry Gilliam's film Brazil where Sam Lowery flys in his dreams](https://github.com/user-attachments/assets/603dd35f-c9a6-4e31-aa23-9469ddc33a69)
+
