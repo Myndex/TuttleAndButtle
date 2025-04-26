@@ -12,10 +12,12 @@ First posted early December of 2021 as a contrarian response to the several very
 
 The piece itself is of little value, but it has come to our attention that it is being used as a reference, being cited with the aim of creating an atmosphere of confusion and animosity. As such, it needs to be challenged. It does not contain facts, but rather a string of provocative logical fallacies, which we [dissect on a line by line basis.][1]
 
+
+-----
 ## Corrections and Rebuttals of a Misleading GitHub Repo
 GitHub user xi (Tobias Bengfort) created an unauthorized repo called "apca-introduction" which is, unfortunately, misleading. We forked the repo to clarify, make corrections, and set the record straight. Here are summaries with links to the clarifications (links lead to a separate repo).
 
-### Corrections to the [_Dissing Introduction to APCA_][2]
+### Corrections to the [_Missing Introduction to APCA_][2]
 The corrected ["The missing introduction to APCA"][2] linked here, was revised for accuracy only, with the intention of maintaining xi's original tone and simplistic presentation. The corrections were necessarry, as the original is significantly and inappropriately biased. For instance, the visual examples are set with low spatial frequency fonts with contrast values well into contrast constancy, so as to hide the true and important differences. In addition, the original repo applied unauthorized modifications to the APCA code, invalidating any results.
 
 ### Rebuttal to [_Derailed APCA Analysis_][3]
