@@ -2,7 +2,7 @@
 ## _Readability is the Cornerstone of a Healthy Society_
 The World Wide Web became a content distribution system that effectively replaced traditional print. This fact created an obligation for supporting effective readability of digital content—an obligation the W3C has failed to realize. The importance of this should not be underestimated. Inadaquate or improper standards for visually readable content results in high visual fatigue, inaccessible content, and ultimately, reduced reading for a majority of the population.
 
-By some measures, reading has decreased by as much as 40% over the last two decades[_see "A Contrast of Errors"_](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a). A seven word meme does not convey understanding the way a seven hundred or seven thousand word article can. Projecting forward, the societal consequence is dystopian at best. A public that does not read is a public shrouded in ignorance, leading to a public ripe for manipulation—as history has shown us all too often.
+By some measures, reading has decreased by as much as 40% over the last two decades [_(see "A Contrast of Errors")_](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a). A seven word meme does not convey understanding the way a seven hundred or seven thousand word article can. Projecting forward, the societal consequence is dystopian at best. A public that does not read is a public shrouded in ignorance, leading to a public ripe for manipulation—as history has shown us all too often.
 
 **Consider this when you ask why certain individuals are opposed to improving visual accessibility and readability of digital content.**
 
