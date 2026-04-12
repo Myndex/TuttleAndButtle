@@ -40,7 +40,7 @@ A response to claims about contrast mathematics that misapply mathematical conce
 
 ## Scientific Limitations of WCAG 2 Contrast
 
-WCAG 2's contrast formula does not model human contrast perception on self-illuminated displays. The formula ignores spatial frequency, adaptation state, surround luminance, and display polarity — all factors demonstrated to affect perceived contrast by decades of peer-reviewed research. As a result, the formula produces systematic false passes (unreadable text that meets the ratio) and false fails (readable text that does not).
+WCAG 2's contrast formula [does not model](limitationsOfWCAG2.md) human contrast perception on self-illuminated displays. The formula ignores spatial frequency, adaptation state, surround luminance, and display polarity — all factors demonstrated to affect perceived contrast by decades of peer-reviewed research. As a result, the formula produces systematic false passes (unreadable text that meets the ratio) and false fails (readable text that does not).
 
 The [APC-Readability Criterion](https://readtech.org/ARC/) is a public working draft providing evidence-based guidance for visual accessibility and readability, derived from peer-reviewed research. Its bibliographies and references detail the scientific basis for each guideline.
 
