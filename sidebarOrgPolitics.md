@@ -1,41 +1,35 @@
-# SIDEBAR: Organizational Politics
-## _Readability is the Cornerstone of a Healthy Society_
-The World Wide Web became a content distribution system that effectively replaced traditional print. This fact created an obligation for supporting effective readability of digital content—an obligation the W3C has failed to realize. The importance of this should not be underestimated. Inadaquate or improper standards for visually readable content results in high visual fatigue, inaccessible content, and ultimately, reduced reading for a majority of the population.
+# Scientific Limitations of WCAG 2 Contrast
 
-By some measures, reading has decreased by as much as 40% over the last two decades [_(see "A Contrast of Errors")_](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a). A seven word meme does not convey understanding the way a seven hundred or seven thousand word article can. Projecting forward, the societal consequence is dystopian at best. A public that does not read is a public shrouded in ignorance, leading to a public ripe for manipulation—as history has shown us all too often.
+## Readability Is the Cornerstone of a Healthy Society
 
-**Consider this when you ask why certain individuals are opposed to improving visual accessibility and readability of digital content.**
+The World Wide Web became a content distribution system that effectively replaced traditional print. This created an obligation to support effective readability of digital content — an obligation that current standards do not adequately fulfill. The importance of this should not be underestimated. Inadequate or inaccurate standards for visually readable content result in high visual fatigue, inaccessible content, and reduced reading across the population.
 
-### The Politics of Reading
-We have been made aware of a small group of individuals obstructing the work toward actual accessibility as it pertains to visual readability. Their underlying motivations may seem unclear, though recent insights have implied motivations that are far from altruistic. The visible-yet-vacuous toxic personalities opposing the subject matter, are posturing to feed off a narcissistic supply at the expense of the community. And the cognitive dissonance they have caused through their gaslighting and manipulation, has created a divisive bitterness within some segments of the a11y community.
+By some measures, reading has decreased by as much as 40% over the last two decades [(see "A Contrast of Errors")](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a). A seven-word meme does not convey understanding the way a seven-hundred or seven-thousand word article can. The societal consequences of declining reading are well documented — and ensuring that screen-based content is legible is one concrete, actionable step toward addressing the problem.
 
-Some of this has impacted the internal politics of the W3C's AGWG, inflaming an untenable and ongoing problem. Our proactive response, to maintain momentum and continue the work and development, has been the founding of the non-profit **Inclusive Reading Technologies, Inc.** The [APC-Readability Criterion](https://readtech.org/ARC/) is a public working draft, and provides solid and useful guidance for designers to ensure visual accessibility and improved readability for all users. APC-RC guidelines are derived from the decades of peer-reviewed readability research, as detailed in the several bibliographies contained within.
+### The Case Against WCAG 2 Contrast in Regulation
 
-### These Aren't The Laws You're Looking For...
-**Legislatures should be aware that portions of WCAG&nbsp;2 are not fit for use in law or regulation**; if it were a voluntary guideline, the potential for harm would not be such a concern, but when elevated to statute law, the potential for harm is unacceptable. An unfortunate consequence is that the serious problems of WCAG&nbsp;2's contrast SCs _cast a dark shadow on other important aspects of WCAG&nbsp;2._
+WCAG 2's contrast SCs (1.4.3 and 1.4.11) directly affect the vast majority of visual web content, yet neither is supported by empirical testing, peer review, or published validation studies. The contrast formula does not model human contrast perception on self-illuminated displays: it ignores spatial frequency, adaptation state, surround luminance, and display polarity. As a result, it produces systematic false passes (unreadable text that meets the ratio) and false fails (readable text that does not).
 
-The nature of the problems with WCAG&nbsp;2 SCs 1.4.3 and 1.4.11, if elevated to law, result in the blocking of improved and more accessible visual content guidelines. This is due partly to the poorly conceived _"backwards compatible"_ rule of WCAG 2.x, which demands that passing a future version automatically passes a former version—a nonsensical stipulation that literally blocks progress and emerging technologies—**not to mention blocking the correction of errors or mistakes, as is the case with the significantly incorrect 1.4.3 & 1.4.11.** 
+The understanding documents for these SCs contain inaccurate claims about the formula's derivation and scope. The "backwards compatible" rule of WCAG 2.x — which requires that any content passing a future version must also pass a former version — structurally prevents the correction of these errors, effectively blocking the adoption of improved methods.
 
-### Don't be led astray, WCAG 1.4.3 & 1.4.11 are not fit for purpose.
-These two SCs directly affect the vast majority of visual web content, yet neither is supported by science, nor peer review, nor testing. WCAG 2's contrast math/methods do not support actual accessibility, and in fact can result in conditions that are worse for those with color vision deficiencies. The understanding docs of WCAG 2.x contain false or misleading information, and the premise lacks scientific support. 1.4.3 and 1.4.11 should not be incorporated into any laws nor regulations. This could be said of a few other SCs, but these two in particular have resulted in the greatest misunderstandings, and the greatest harm to users and readability.
+**Legislatures should be aware** that the scientific basis for WCAG 2's specific contrast threshold values (4.5:1 and 3:1) does not support their use as precise regulatory requirements. While WCAG 2 contains many valuable accessibility provisions, the contrast SCs in particular have created significant confusion and, in some cases, have resulted in less readable content than would have existed without them.
 
-A critical view of a particular group's actions here and elsewhere, clearly reveal a motivation to obstruct the progress toward correcting these errors in WCAG&nbsp;2. This cannot be allowed to stand. Fixing the significant problems of web content readability is one we take seriously, as is evidenced by our continued development of free-to-use guidelines and technologies.
+### Our Response
+
+Inclusive Reading Technologies, Inc. was founded to continue the development of evidence-based readability standards independent of the W3C process. The [APC-Readability Criterion](https://readtech.org/ARC/) is a public working draft that provides practical, scientifically grounded guidance for designers to ensure visual accessibility and improved readability for all users. Its guidelines are derived from decades of peer-reviewed readability research, as detailed in the bibliographies contained within.
 
 Thank you for reading,
 
 Andy
 
-_Andrew Somers_    
-_Director of Research_    
-_Inclusive Reading Technologiues, Inc._    
-<sup>_A California Non-Profit Research Organization_</sup>
-
+*Andrew Somers*
+*Director of Research*
+*Inclusive Reading Technologies, Inc.*
+*A California Non-Profit Research Organization*
 
 ## Resources
 
-For more background on APCA and Readability, you may find these links helpful:
-
-- [Easy Intro to APCA](https://git.apcacontrast.com/documentation/APCAeasyIntro.html) a brief, easy to read intro to user needs for readability of digital content.
-- [Myndex Linktree](https://linktr.ee/Myndex) a short curated list of key resources, tools, and documentation.
-- [The APCA Discussion Forum](https://github.com/Myndex/SAPC-APCA/discussions) the discussion forum on GitHub, free to join in the conversation.
-- [APC-Readability Criteria](https://readtech.org/ARC/) Public Working Draft of the next generation guidelines for visual accessibility and readability.
+- [**Easy Intro to APCA**](https://git.apcacontrast.com/documentation/APCAeasyIntro) — Plain-language overview of readability and user needs
+- [**Myndex Linktree**](https://linktr.ee/Myndex) — Curated list of key resources, tools, and documentation
+- [**APCA Discussion Forum**](https://github.com/Myndex/SAPC-APCA/discussions) — Open discussion on GitHub
+- [**APC-Readability Criteria**](https://readtech.org/ARC/) — Public working draft of next-generation visual accessibility guidelines
