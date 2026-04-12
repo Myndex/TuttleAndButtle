@@ -67,3 +67,19 @@ The importance of accurate contrast specifications should not be underestimated.
 ---
 
 Contents of this repository are copyright © 2023–2026. All Rights Reserved.
+- [**Why APCA**](https://git.apcacontrast.com/documentation/WhyAPCA) — Rationale for a new contrast method
+- [**APCA in a Nutshell**](https://git.apcacontrast.com/documentation/APCA_in_a_Nutshell) — Quick technical summary
+- [**Bridge PCA**](https://bridgepca.com) — WCAG 2-compatible implementation using APCA technology
+- [**Myndex Linktree**](https://linktr.ee/Myndex) — Curated list of key resources, tools, and documentation
+- [**SAPC-APCA Discussions**](https://github.com/Myndex/SAPC-APCA/discussions) — Open forum for questions and feedback
+- [**APC-Readability Criteria**](https://readtech.org/ARC/) — Public working draft of next-generation visual accessibility guidelines
+
+---
+
+*Maintained by [Andrew Somers / Myndex Research](https://github.com/Myndex) · [Inclusive Reading Technologies, Inc.](https://readtech.org)*
+
+*Please direct questions or comments to the [discussion forum](https://github.com/Myndex/SAPC-APCA/discussions).*
+
+---
+
+Contents of this repository are copyright © 2023–2026. All Rights Reserved.
