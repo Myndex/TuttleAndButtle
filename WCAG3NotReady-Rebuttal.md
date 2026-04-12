@@ -1,21 +1,24 @@
-# Rebuttal to Yatil's _"WCAG 3 is not ready yet"_
+# Response to "WCAG 3 Is Not Ready Yet"
 
+In December 2021, Eric Eggert published a blog post titled *"WCAG 3 is not ready yet,"* which included several claims about the Accessible Perceptual Contrast Algorithm (APCA) and the WCAG 3 development process. The post has since been cited in various discussions as though it constitutes a technical assessment of APCA.
 
-Early December of 2021, Eric Eggert (Yatil) continued his derisive commentary regarding new contrast methods proposed in WCAG 3. His opinion piece has been re-used and re-posted over the last few years by others of a small group of individuals that have been actively obstructing the improvement of readability and visual accessibility standards. We refer to them collectively as _"the obstructionists"_.
+The post does not engage with the peer-reviewed literature on contrast perception, does not present original data or analysis, and contains a number of factual errors and unsupported characterizations. Because it continues to circulate as a reference, a detailed response is appropriate.
 
-The piece itself is of little value, but it has come to our attention that it is being used as a reference, cited to obstruct the progress of actual accessibility research by creating an atmosphere of confusion and animosity. As such, it needs to be challenged. It does not contain facts, but rather is a string of provocative logical fallacies, as discussed below, on a line by line basis.
+The following is a point-by-point examination of the post's claims, evaluated against the published research record. Where the original post makes assertions without citation, we provide the relevant citations. Where it draws conclusions unsupported by the evidence, we identify the gap.
 
-We've hesitated giving any consideration to the postings of what amount to "trolls", as usually the best course of action is to ignore—and certainly, we are not promoting this page. In general, our focus is on improving actual accessibility. We know the truth will prevail, and this has been the case for the most part. But we have been made aware of implications and actual harm that is being caused within the accessibility community by these derisive assertions. Therefore we need at least to have a document to point to as a response.
+For readers seeking a constructive introduction to APCA and its scientific basis, we recommend:
 
-This document is intended to provide clarity, for those that find Mr. Eggert's unsupported opinion confusing on these issues.
+- [**Realities and Myths of Contrast and Color**](https://www.smashingmagazine.com/2022/09/realities-myths-contrast-color/) — Comprehensive peer-reviewed overview (Smashing Magazine, 2022)
+- [**Why APCA**](https://git.apcacontrast.com/documentation/WhyAPCA) — Rationale for a new contrast method
+- [**Easy Intro to APCA**](https://git.apcacontrast.com/documentation/APCAeasyIntro) — Plain-language overview
 
+---
 
 ------------
 > _<sub>Yatil:</sub>_    
 > ### _WCAG 3 is not ready yet_
 
-No one said it was, but parts are/were certainly ready for testing, and actively undergoing tests. APCA was brought to the public view and published as an npm package December 2021 to enable the larger public beta period for testing and evaluation. Mr. Eggert's opinion piece, along with actions by other obstructionists, had a chilling effect, including the disruption of the beta program, and causing some beta testers and early adopters to drop out of the beta test program.
-
+No one said it was, but parts are/were certainly ready for testing, and actively undergoing tests. APCA was brought to the public view and published as an npm package December 2021 to enable the larger public beta period for testing and evaluation. Mr. Eggert's opinion piece, along with actions by others, had a chilling effect, including the disruption of the beta program.
 
 > _<sub>Yatil:</sub>_    
 > _And it won’t be for quite some time._
